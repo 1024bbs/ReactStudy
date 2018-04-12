@@ -1,1 +1,1 @@
-import "./study/"
+import "./study/10-baiduSearch"
