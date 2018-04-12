@@ -1,1 +1,1 @@
-import "./study/9-refs"
+import "./study/"
